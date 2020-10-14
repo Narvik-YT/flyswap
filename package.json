@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://wuzhanfly.github.io/flyswap.git",
+  "homepage": "https://wuzhanfly.github.io/flyswap",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
